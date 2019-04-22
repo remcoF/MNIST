@@ -1,3 +1,5 @@
+Changing this will trigger experiments to start!
+
 # MNIST in TensorFlow
 
 This directory builds a convolutional neural net to classify the [MNIST
