@@ -1,4 +1,4 @@
-Lets Change this again so it will trigger experiments to start!
+Lets Change this now so it will trigger experiments to start!
 
 # MNIST in TensorFlow
 
